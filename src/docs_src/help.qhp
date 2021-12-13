@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>coursework.help</namespace>
+    <virtualFolder>docs</virtualFolder>
+    <filterSection>
+        <toc>
+            <section title="PNG Editor Help" ref="index.html">
+                <section title="Drawing a square" ref="tool1.html"></section>
+                <section title="Exchange 4 parts of the selected area" ref="tool2.html"></section>
+		        <section title="Replace a common color" ref="tool3.html"></section>
+		        <section title="Color inversion in the selected area" ref="tool4.html"></section>
+	        </section>
+        </toc>
+        <keywords>
+            <keyword name="Drawing a square" ref="tool1.html"/>
+            <keyword name="Exchange 4 parts of the selected area" ref="tool2.html"/>
+            <keyword name="Replace a common color" ref="tool3.html"/>
+	        <keyword name="Color inversion in the selected area" ref="tool4.html"/>
+        </keywords>
+        <files>
+            <file>index.html</file>
+            <file>tool1.html</file>
+	        <file>tool2.html</file>
+	        <file>tool3.html</file>
+	        <file>tool4.html</file>
+	        <file>images/common_color_tool.png</file>
+	        <file>images/exchanging_1.png</file>
+	        <file>images/exchanging_2.png</file>
+	        <file>images/exchanging_3.png</file>
+	        <file>images/exchanging_tool.png</file>
+	        <file>images/invert_color.png</file>
+	        <file>images/square_painted.png</file>
+	        <file>images/square_tool.png</file>
+	        <file>images/square_unpainted.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/common_color_tool.png</file>
+        <file>icons/exchanging_1.png</file>
+        <file>icons/exchanging_2.png</file>
+        <file>icons/exchanging_3.png</file>
+        <file>icons/exchanging_tool.png</file>
+        <file>icons/invert_color.png</file>
+        <file>icons/square_painted.png</file>
+        <file>icons/square_tool.png</file>
+        <file>icons/square_unpainted.png</file>
+    </qresource>
+</RCC>
