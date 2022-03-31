@@ -2,10 +2,8 @@
 
 Зависимости:
 
-1. Фреймворк Qt 5.14.2
-	Установка: https://wiki.qt.io/Install_Qt_5_on_Ubuntu
-2. Библиотека libpng
-	Установка: sudo apt-get install libpng-dev
+1. Фреймворк Qt 5.14.2 (установка: https://wiki.qt.io/Install_Qt_5_on_Ubuntu)
+2. Библиотека libpng (установка: sudo apt-get install libpng-dev)
 
 Запуск программы:
 
